@@ -1,4 +1,3 @@
-Here is a sample `README.md` file documenting how you cleaned and analyzed this customer dataset using **JupyterLab**. You can further modify it based on the exact methods or tools you used during your analysis.
 
 ---
 
